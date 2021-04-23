@@ -1,5 +1,5 @@
 # GIMNTools
-This module is used in order to Read and Process Data acquired in our facility. It have 
+This module is used in order to Read and Process Data acquired in our facility. 
 It have two main usages, read and process data from Gate simulations, and to process data
 acquired in our PETSYS TOFPET2 Evaluation kit. It is In early stage of developement not being recomended 
 for use outside our laboratory.
